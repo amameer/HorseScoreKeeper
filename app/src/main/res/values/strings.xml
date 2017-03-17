@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HorseScoreKeeper</string>
+    <string name="app_title">Horse Score Keeper</string>
+    <string name="btn_reset">Reset</string>
+    <string name="Zero">0</string>
+    <string name="Player1">Alanoud</string>
+    <string name="Player2">Almaha</string>
+</resources>
